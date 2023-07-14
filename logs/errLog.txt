@@ -1,0 +1,4 @@
+20230715	00:54:34	e0abe397-4fed-41f3-a00a-e8200c49cb02	ReferenceError: Cannot access 'employee' before initialization
+20230715	00:56:33	becd8043-841c-42c0-a9e0-0dd80aa29a12	ReferenceError: Cannot access 'employee' before initialization
+20230715	00:58:50	d714812f-5c11-42ec-a869-6b657814b795	TypeError: Cannot set properties of undefined (setting 'firstname')
+20230715	00:59:43	c87dd487-97ea-439c-a8bc-9a3e53222191	TypeError: Cannot set properties of undefined (setting 'firstname')
