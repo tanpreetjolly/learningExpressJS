@@ -28,3 +28,9 @@
 20230715	00:01:01	c77b2910-6c4e-4b2a-abae-220303fef88e	GET	undefined	/subdir/
 20230715	00:01:49	f9835d64-db56-41aa-b48e-a72cde613655	GET	undefined	/subdir/
 20230715	00:01:49	a11d0c4c-6a58-4104-9a27-7939ab9b768c	GET	undefined	/css/style.css
+20230715	00:16:33	95b1acd8-bae0-4f84-92f3-d76bc96a2384	GET	undefined	/employees
+20230715	00:16:41	ff86ce23-123a-4b29-8e48-0248fe60d071	GET	undefined	/employees
+20230715	00:16:42	a3d72342-08e7-4003-882e-bbc145874b43	GET	undefined	/employees
+20230715	00:17:35	edf2f3e1-3d5e-491a-b4f9-4298d84eee13	GET	undefined	/employees
+20230715	00:18:03	8a9addec-ad92-43e1-adab-b9acd97a8d52	GET	undefined	/employees
+20230715	00:18:04	eeed59d6-cb56-4f22-a2eb-07c3079504cf	GET	undefined	/employees
