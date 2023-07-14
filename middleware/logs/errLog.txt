@@ -1,3 +1,0 @@
-20230627	18:17:46	1853f74b-f2a9-46af-8cc7-e06df494c046	Error: Not allowed by cors
-20230627	18:20:07	676dc37d-a481-4658-bba5-32167d23dfc7	Error: Not allowed by cors
-20230627	18:20:46	4707dfc0-931b-48a1-85f8-58bc2589a451	Error: Not allowed by cors
